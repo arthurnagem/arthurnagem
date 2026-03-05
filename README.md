@@ -1,8 +1,6 @@
 ## Hi there 👋
+I'm currently studying Computer Science at UFSC!
 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/bf2f3185-df3a-470a-a7ac-844c2894f075/thumbnail" />
-</p>
 
 
 <!--
